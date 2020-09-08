@@ -1,4 +1,4 @@
-package adapters;
+package com.example.flixster.adapters;
 
 import android.content.Context;
 import android.content.res.Configuration;
@@ -12,15 +12,15 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.example.flixster.models.Movie;
 
 import com.bumptech.glide.Glide;
 import com.example.flixster.R;
 
 import java.util.List;
 
-import models.Movie;
-
 public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.ViewHolder> {
+
     Context context;
     List<Movie> movies;
 
@@ -67,14 +67,14 @@ public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.ViewHolder> 
         public void bind(Movie movie) {
             tvTitle.setText(movie.getTitle());
             tvOverview.setText(movie.getOverview());
-            String imageURL;
+            String image;
             if (context.getResources().getConfiguration().orientation == Configuration.ORIENTATION_LANDSCAPE) {
-                imageURL = movie.getBackdropPath();
+                image = movie.getBackdropPath();
             }else {
-                imageURL = movie.getPosterPath();
+                image = movie.getPosterPath();
             }
 
-            Glide.with(context).load(imageURL).into(ivPoster);
+            Glide.with(context).load(image).into(ivPoster);
         }
     }
 }

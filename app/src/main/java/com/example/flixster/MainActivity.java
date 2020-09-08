@@ -1,6 +1,6 @@
 package com.example.flixster;
 
-import android.graphics.Movie;
+
 import android.os.Bundle;
 import android.util.Log;
 
@@ -10,6 +10,8 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.codepath.asynchttpclient.AsyncHttpClient;
 import com.codepath.asynchttpclient.callback.JsonHttpResponseHandler;
+import com.example.flixster.adapters.MovieAdapter;
+import com.example.flixster.models.Movie;
 
 import org.json.JSONArray;
 import org.json.JSONException;
@@ -19,6 +21,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import okhttp3.Headers;
+
 
 public class MainActivity extends AppCompatActivity {
 
@@ -36,10 +39,10 @@ public class MainActivity extends AppCompatActivity {
         movies = new ArrayList<>();
 
 
-        final MovieAdapter movieAdapter = new MovieAdapter( this, movies);
+        final MovieAdapter movieAdapter = new MovieAdapter ( this, movies);
 
         rvMovies.setAdapter(movieAdapter);
-        rvMovies.setLayoutManager(new LinearLayoutManager(this, movies));
+        rvMovies.setLayoutManager(new LinearLayoutManager(this));
 
         AsyncHttpClient client = new AsyncHttpClient();
         client.get(NOW_PLAYING_URL, new JsonHttpResponseHandler() {
