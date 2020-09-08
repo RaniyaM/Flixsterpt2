@@ -1,0 +1,314 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AccessorsWereOverridden" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="ApiName" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="Open Files" level="ERROR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="ApiNamespace" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="Open Files" level="ERROR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="ApiParameter" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="Open Files" level="ERROR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="ArgumentSelectionDefects" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="AssociatedTypeMismatch" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="CallDealloc" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="ClangTidy" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="Constructor" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="Open Files" level="ERROR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="DeprecatedApi" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="DuplicateAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="DuplicateSwitchCase" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="EmptyDeclOrStmt" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="EndlessLoop" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="EqualityInConditionalOperator" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="EqualityInConditionalOperatorWithSelf" enabled="true" level="WARNING" enabled_by_default="false">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="FormatSpecifiers" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="FullJavaName" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="Open Files" level="ERROR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="FullMethodName" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="Open Files" level="ERROR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="FunctionImplicitDeclaration" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="HidesClassScope" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="HidesUpperScope" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="HidingNonVirtualFunction" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="IgnoreFileDuplicateEntry" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="ImplementationHasNoInterface" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="ImplicitDeclarationOfIvar" enabled="true" level="WARNING" enabled_by_default="false">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="ImplicitIntegerAndEnumConversion" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="ImplicitPointerAndIntegerConversion" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="IncompatibleEnums" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="IncompatibleInitializers" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="IncompatiblePointers" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="InterfaceHasNoImplementation" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="InvalidParameterAnnotations" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="Open Files" level="ERROR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="KRUnspecifiedParameters" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="KeyValueCoding" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="LastArgumentMustBeNull" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="LocalValueEscapesScope" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="LossyEncoding" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="MemberFunctionCanBeStatic" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="MethodIsLaterInTheScope" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="MethodName" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="Open Files" level="ERROR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="MethodParameterType" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="Open Files" level="ERROR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="MethodReturnType" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="Open Files" level="ERROR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="MissingReturn" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="MissingSwitchCase" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="MultipleRepositoryUrls" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="NamedResource" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="Open Files" level="ERROR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="NoAttributeForProperty" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="NoClassDefinition" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="NoGetterOrSetter" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="NonAsciiCharacters" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="NotImplementedFunctions" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="NotImplementedMethods" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="NotImplementsProtocol" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="NotInHierarchyMessage" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="NotInitializedVariable" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="NotReleasedValue" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="NotSuperclass" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="NotVisibleClass" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="OCDFA" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="OCInconsistentNaming" enabled="true" level="WEAK WARNING" enabled_by_default="false">
+      <scope name="Open Files" level="WEAK WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="OCLegacyObjCLiteral" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="OCLoopDoesntUseConditionVariable" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="OCNotLocalizedString" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="OCNotReleasedIvar" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="OCSimplify" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="OCUnusedClass" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="OCUnusedConcept" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="OCUnusedGlobalDeclaration" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="OCUnusedIncludeDirective" enabled="true" level="WARNING" enabled_by_default="false">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="OCUnusedInstanceVariable" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="OCUnusedMacro" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="OCUnusedMethod" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="OCUnusedProperty" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="OCUnusedStruct" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="OCUnusedTemplateParameter" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="OverriddenAttributeMismatch" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="OverriddenTypeMismatch" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="PrivateCategoryShouldBeNearImplementation" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="PropertyAndIvarTypeMismatch" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="ReleasingOfAssignProperties" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="ResourceNotFound" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="ResourceParameter" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="Open Files" level="ERROR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="RestSignature" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="Open Files" level="ERROR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="SetterForReadonlyProperty" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="SeveralTargetsMessage" enabled="true" level="WARNING" enabled_by_default="false">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="ShellCheck" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="Open Files" level="ERROR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="SignednessMismatch" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="StringLocalization" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="UnavailableInDeploymentTarget" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="UnresolvedCollectionMessage" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="UnresolvedMessage" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="UnresolvedReference" enabled="true" level="ERROR" enabled_by_default="true">
+      <scope name="Open Files" level="ERROR" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="UnusedDefine" enabled="true" level="WARNING" enabled_by_default="false">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="UnusedExpressionResult" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="UnusedImportStatement" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="UnusedLocalVariable" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="UnusedLocalization" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="UnusedParameter" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="UnusedValue" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="UsingZeroAsNil" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="ValueMayNotFitIntoReceiver" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+    <inspection_tool class="VirtualCallInCtorOrDtor" enabled="true" level="WARNING" enabled_by_default="true">
+      <scope name="Open Files" level="WARNING" enabled="true" />
+    </inspection_tool>
+  </profile>
+</component>
